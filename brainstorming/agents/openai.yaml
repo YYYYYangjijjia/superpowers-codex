@@ -1,0 +1,3 @@
+interface:
+  icon_small: "./assets/brainstorming-small.svg"
+  icon_large: "./assets/brainstorming.png"

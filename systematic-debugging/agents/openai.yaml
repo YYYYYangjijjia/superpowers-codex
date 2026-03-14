@@ -1,0 +1,3 @@
+interface:
+  icon_small: "./assets/systematic-debugging-small.svg"
+  icon_large: "./assets/systematic-debugging.png"

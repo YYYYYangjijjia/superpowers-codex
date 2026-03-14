@@ -1,0 +1,3 @@
+interface:
+  icon_small: "./assets/verification-before-completion-small.svg"
+  icon_large: "./assets/verification-before-completion.png"

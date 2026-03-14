@@ -19,6 +19,22 @@ The goal of this project is to:
 
 ---
 
+# Installation
+
+- **Manual**
+
+Clone this repository and copy the  `superpowers/` folder into your local Codex skills directory.
+
+- **Agent install**
+
+Send the following instruction to your Codex agent:
+
+```plaintext
+Visit https://github.com/YYYYYangjijjia/superpowers-codex/install.md and follow the instructions to install the skill pack.
+```
+
+---
+
 # Skill List
 
 | Skill                                                                              | Description                                                                | Notes             |

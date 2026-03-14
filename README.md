@@ -6,9 +6,9 @@
 
 This repository contains a **Codex Desktop–compatible adaptation** of the `skills/` subtree from the upstream project:
 
-[obra/superpowers](https://github.com/obra/superpowers)
+[obra/superpowers](https://github.com/obra/superpowers)   v-5.0.2
 
-The original skills were designed for **Claude Code CLI**.  
+The original skills were designed for **Claude Code CLI**.
 This version applies **minimal compatibility adjustments** so the skills can be used in **Codex Desktop workflows**.
 
 The goal of this project is to:
@@ -21,22 +21,22 @@ The goal of this project is to:
 
 # Skill List
 
-| Skill | Description | Notes |
-|------|-------------|------|
-| [brainstorming](superpowers/brainstorming/SKILL.md) | Clarify vague ideas into concrete design directions before implementation. | Fully compatible |
-| [dispatching-parallel-agents](superpowers/dispatching-parallel-agents/SKILL.md) | Organize independent tasks for parallel helper-agent execution. | Conditional |
-| [executing-plans](superpowers/executing-plans/SKILL.md) | Execute an implementation plan step-by-step. | Fully compatible |
-| [finishing-a-development-branch](superpowers/finishing-a-development-branch/SKILL.md) | Finalize development work and prepare merge / PR decisions. | Compatible |
-| [receiving-code-review](superpowers/receiving-code-review/SKILL.md) | Evaluate code review feedback before applying changes. | Fully compatible |
-| [requesting-code-review](superpowers/requesting-code-review/SKILL.md) | Initiate focused code reviews to discover real issues. | Compatible |
-| [subagent-driven-development](superpowers/subagent-driven-development/SKILL.md) | Decompose tasks and assign them to helper agents. | Conditional |
-| [systematic-debugging](superpowers/systematic-debugging/SKILL.md) | Diagnose root causes before fixing bugs. | Compatible |
-| [test-driven-development](superpowers/test-driven-development/SKILL.md) | Write failing tests first, then implement minimal fixes. | Fully compatible |
-| [using-git-worktrees](superpowers/using-git-worktrees/SKILL.md) | Use git worktrees for isolated development environments. | Fully compatible |
-| [using-superpowers](superpowers/using-superpowers/SKILL.md) | Entry skill for the entire skill pack. | Recommended entry |
-| [verification-before-completion](superpowers/verification-before-completion/SKILL.md) | Verify evidence before claiming completion. | Compatible |
-| [writing-plans](superpowers/writing-plans/SKILL.md) | Convert requirements into executable implementation plans. | Fully compatible |
-| [writing-skills](superpowers/writing-skills/SKILL.md) | Process for creating and maintaining reusable skills. | Compatible |
+| Skill                                                                              | Description                                                                | Notes             |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------- |
+| [brainstorming](superpowers/brainstorming/SKILL.md)                                   | Clarify vague ideas into concrete design directions before implementation. | Fully compatible  |
+| [dispatching-parallel-agents](superpowers/dispatching-parallel-agents/SKILL.md)       | Organize independent tasks for parallel helper-agent execution.            | Conditional       |
+| [executing-plans](superpowers/executing-plans/SKILL.md)                               | Execute an implementation plan step-by-step.                               | Fully compatible  |
+| [finishing-a-development-branch](superpowers/finishing-a-development-branch/SKILL.md) | Finalize development work and prepare merge / PR decisions.                | Compatible        |
+| [receiving-code-review](superpowers/receiving-code-review/SKILL.md)                   | Evaluate code review feedback before applying changes.                     | Fully compatible  |
+| [requesting-code-review](superpowers/requesting-code-review/SKILL.md)                 | Initiate focused code reviews to discover real issues.                     | Compatible        |
+| [subagent-driven-development](superpowers/subagent-driven-development/SKILL.md)       | Decompose tasks and assign them to helper agents.                          | Conditional       |
+| [systematic-debugging](superpowers/systematic-debugging/SKILL.md)                     | Diagnose root causes before fixing bugs.                                   | Compatible        |
+| [test-driven-development](superpowers/test-driven-development/SKILL.md)               | Write failing tests first, then implement minimal fixes.                   | Fully compatible  |
+| [using-git-worktrees](superpowers/using-git-worktrees/SKILL.md)                       | Use git worktrees for isolated development environments.                   | Fully compatible  |
+| [using-superpowers](superpowers/using-superpowers/SKILL.md)                           | Entry skill for the entire skill pack.                                     | Recommended entry |
+| [verification-before-completion](superpowers/verification-before-completion/SKILL.md) | Verify evidence before claiming completion.                                | Compatible        |
+| [writing-plans](superpowers/writing-plans/SKILL.md)                                   | Convert requirements into executable implementation plans.                 | Fully compatible  |
+| [writing-skills](superpowers/writing-skills/SKILL.md)                                 | Process for creating and maintaining reusable skills.                      | Compatible        |
 
 ---
 
@@ -170,6 +170,3 @@ Original project:
 This repository is an **adaptation for Codex Desktop** and is not affiliated with the original authors.
 
 ---
-
-
-
